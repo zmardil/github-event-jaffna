@@ -44,5 +44,5 @@ Format: ![Alt Text](url)
 http://github.com - automatic!
 [Github](http://github.com)
 
-- [ ] setup discord webhooks
+- [x] setup discord webhooks
 
